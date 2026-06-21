@@ -1,4 +1,4 @@
-# Winnow
+# curator 
 
 A 30-day, hands-on data curation skill-build — sourcing, cleaning, deduplicating, filtering, annotating, and publishing real datasets, end to end.
 
