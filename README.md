@@ -26,7 +26,9 @@ Python · pandas · Hugging Face `datasets` · Scrapy · BeautifulSoup · datask
 ## Setup
 \`\`\`bash
 python -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
 \`\`\`
 
@@ -34,4 +36,4 @@ pip install -r requirements.txt
 End-to-end curated dataset published on Hugging Face Hub: [link once live]
 
 ## Status
-🟡 In progress — Week [X] of 4
+🟡 In progress — Week 0 of 4
