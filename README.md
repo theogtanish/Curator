@@ -24,13 +24,13 @@ Each week folder contains:
 Python · pandas · Hugging Face `datasets` · Scrapy · BeautifulSoup · datasketch (MinHash/LSH) · FAISS · Label Studio
 
 ## Setup
-\`\`\`bash
+```bash
 python -m venv venv
 
 source venv/bin/activate
 
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Final capstone
 End-to-end curated dataset published on Hugging Face Hub: [link once live]
